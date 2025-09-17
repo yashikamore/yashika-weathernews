@@ -101,4 +101,4 @@ To learn more about React Native, take a look at the following resources:
 # Screenshots
 
 ![home](https://github.com/yashikamore/yashika-weathernews/blob/main/src/assests/homeScreenShot.png))
-![setting](../yashika-weathernews/src/assests/settingScreenshot.png)](https://github.com/yashikamore/yashika-weathernews/blob/main/src/assests/settingScreenshot.png)
+![setting](https://github.com/yashikamore/yashika-weathernews/blob/main/src/assests/settingScreenshot.png)
